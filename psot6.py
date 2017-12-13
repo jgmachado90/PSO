@@ -88,7 +88,6 @@ id_list = ids.split()
 
 #percorre a lista de emails
 for msg in id_list[::-1]:
-	print("procurando")
 	result, data = mail.fetch(msg, '(RFC822)') #fetch do corpo do email com o id
 	raw_email = data[0][1]
 	email_message = email.message_from_bytes(raw_email)
