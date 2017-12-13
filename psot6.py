@@ -1,4 +1,4 @@
-#Read Email Script
+#Trabalho t6 PSO - João Gonçalves Machado 
 import imaplib
 import email
 import os
