@@ -2,7 +2,7 @@
 
 João Gonçalves Machado (2017)
 
-O script realiza o download de emails, de alguma pasta, que contém algum assunto específico.
+O script realiza o download de emails, que estão em alguma pasta específica e contém algum assunto específico.
 
 ## Requisitos:
 
